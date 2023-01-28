@@ -8,3 +8,9 @@
 .ipynb_checkpoints/v1-checkpoint.ipynb
 
 full-sample.csv
+
+pitchers/
+
+models/
+
+.ipynb_checkpoints/
